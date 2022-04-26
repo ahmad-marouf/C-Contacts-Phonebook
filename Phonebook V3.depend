@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1577038280 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+
+1577035833 d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577037351 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\adddelmod.c
+	"definitions.h"
+
+1577040477 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\printsort.c
+	"definitions.h"
+
+1577042065 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\search.c
+	"definitions.h"
+
+1577038342 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\validations.c
+	"definitions.h"
+
+1577043241 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook v3\loadsave.c
+	"definitions.h"
+
+1577037352 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\adddelmod.c
+	"definitions.h"
+
+1577035834 d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\definitions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577043242 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\loadsave.c
+	"definitions.h"
+
+1577038282 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"definitions.h"
+
+1577040478 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\printsort.c
+	"definitions.h"
+
+1577042066 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\search.c
+	"definitions.h"
+
+1577038344 source:d:\users\ahmad\documents\uni stuff\term 3\programming\project\phonebook [6600,6517,6543]\phonebook v3\validations.c
+	"definitions.h"
+
